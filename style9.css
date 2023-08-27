@@ -106,7 +106,7 @@ top: 30%;
 }
 
 
-@media(max-width:991px){
+@media(max-width:991px) and (min-width:768px){
 
 .col1{
 float: left;
